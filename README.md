@@ -1,17 +1,5 @@
 # 💫 About Me:
-Hello, I'm Ricardo Guerrero! 👋<br><br>
-I'm a Robotics and Digital Systems Engineering student at Tecnológico de Monterrey (ITESM). I'm passionate about robotics, autonomous systems, and competitive programming. I am actively involved in two projects within the VantTec robotics group: SWARM (drone show) and USV (autonomous boat).<br><br>
-
-💻 Languages and Tools:<br>
-- C++, Python, MATLAB<br>
-- ROS2 and Control Systems<br><br>
-
-🏆 Competitions and Achievements:<br>
-- Participant in Mexico Final 2024 competitive programming tournament.<br>
-- Being a Gallagher Foundation scholarship recipient to study at Tec de Monterrey.<br>
-- RoboCup 2022 in Bangkok, Thailand.<br><br>
-
-🌱 My goal is to continue refining my skills in robotics and work on innovative solutions that push the boundaries of advanced technology in different sectors.
+Hello, I'm Ricardo Guerrero! 👋<br><br>I'm a Robotics and Digital Systems Engineering student at Tecnológico de Monterrey (ITESM). I'm passionate about robotics, autonomous systems, and competitive programming. I am actively involved in two projects within the VantTec robotics group: SWARM (drone show) and USV (autonomous boat).<br><br>💻 Languages and Tools:<br>- C++, Python, MATLAB<br>- ROS2 and Control Systems<br><br>🏆 Competitions and Achievements:<br>-Being a Gallagher Foundation scholarship recipient to study at Tec de Monterrey.<br>- Participant in Mexico Final 2024 competitive programming tournament.<br>- RoboCup 2022 in Bangkok, Thailand.<br><br>🌱 My goal is to continue refining my skills in robotics and work on innovative solutions that push the boundaries of advanced technology in different sectors.
 
 
 ## 🌐 Socials:
